@@ -1,4 +1,4 @@
-<h1 align="center"
+4<h1 align="center"
   
 ### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+Ƭ+Є+ƛ+M+ƒєαяℓєѕѕ+∂єνєℓορєяѕ+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>Ƭ Є ƛ M ƒєαяℓєѕѕ ∂єνєℓορєяѕ</b></h1>
-<p align="center"><a href="https://t.me/Ironmanhindigaming"><img src="https://telegra.ph/file/51cb8a22e65caa4382879.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Ironmanhindigaming"><img src="https://iili.io/FnVfoiJ.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
