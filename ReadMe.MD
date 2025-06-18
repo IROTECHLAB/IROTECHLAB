@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![irotech](https://t.me/irotechlab")</b>
+<b>![Ƭ Є ƛ M ƒєαяℓєѕѕ ∂єνєℓορєяѕ](https://t.me/irotechlab")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TEAMPURVI&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IROTECHLAB&theme=onedark&hide_border=false)<br/>
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=TEAMPURVI&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
