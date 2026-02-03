@@ -78,17 +78,8 @@
 </p>
 
 ## 📊 GitHub Stats
-<div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IROTECHLAB&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IROTECHLAB&layout=compact&theme=radical" alt="Top Languages" height="180" />
-  
-  <br><br>
-  
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IROTECHLAB&theme=dark)](https://git.io/streak-stats)
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IROTECHLAB?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   
 </div>
 
