@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IROTECHLAB&label=Profile%20views&color=0e75b6&style=flat" alt="IROTECHLAB" />
-  <a href="https://t.me/irotechlab"><img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+  <a href="https://t.me/irotech_lab"><img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
   <img src="https://img.shields.io/github/followers/IROTECHLAB?label=Followers&style=flat&color=blue" alt="GitHub followers">
 </p>
 
@@ -28,14 +28,14 @@
 - 🌱 Currently mastering **Advanced Python, Telegram Bot API, and System Automation**
 - 🚀 Building **useful bots and tools** for the Telegram ecosystem
 - 💡 Passionate about creating efficient solutions with code
-- 📫 **Personal Contact:** [t.me/ironmanhindigaming](https://t.me/ironmanhindigaming)
+- 📫 **Personal Contact:** [t.me/ironmanhindigaming](https://t.me/ironmanhindigamingbot)
 - ⚡ **Fun fact:** I use AI to learn faster and build smarter solutions
 
 ## 📢 JOIN MY TELEGRAM CHANNEL
 **For daily scripts, bot tutorials, API integrations & tech updates:**
 
 <div align="center">
-  <a href="https://t.me/irotechlab">
+  <a href="https://t.me/irotech_lab">
     <img src="https://img.shields.io/badge/🚀_irotechlab_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" alt="Telegram Channel" height="40">
   </a>
 </div>
@@ -64,10 +64,10 @@
   <a href="https://instagram.com/Ironmanyt00" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30">
   </a>
-  <a href="https://t.me/irotechlab" target="blank">
+  <a href="https://t.me/irotech_lab" target="blank">
     <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" height="30">
   </a>
-  <a href="https://t.me/ironmanhindigaming" target="blank">
+  <a href="https://t.me/ironmanhindigamingbot" target="blank">
     <img src="https://img.shields.io/badge/Personal_Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Personal Telegram" height="30">
   </a>
 </p>
@@ -80,15 +80,14 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  <!-- FIXED GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=IROTECHLAB&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
   
-  <!-- FIXED Top Languages Card -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IROTECHLAB&layout=compact&theme=radical" alt="Top Languages" height="180" />
   
   <br><br>
   
-  <!-- FIXED GitHub Streak Stats -->
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IROTECHLAB&theme=radical" alt="GitHub Streak" width="60%" />
   
 </div>
@@ -107,7 +106,7 @@
   <br><br>
   
   <!-- Telegram Channel Final CTA -->
-  <a href="https://t.me/irotechlab">
+  <a href="https://t.me/irotech_lab">
     <img src="https://img.shields.io/badge/🚀_Join_irotechlab_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram" height="50">
   </a>
   
