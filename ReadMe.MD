@@ -88,7 +88,7 @@
   <br><br>
   
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IROTECHLAB&theme=radical" alt="GitHub Streak" width="60%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IROTECHLAB&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
