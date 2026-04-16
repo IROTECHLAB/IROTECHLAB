@@ -48,7 +48,7 @@
 - 💬 **Developer community & discussions**
 
 ## 👨‍💻 Portfolio & Projects
-**All my projects are available at:** [https://ironmandev.netlify.app](https://ironmandev.netlify.app)
+**All my projects are available at:** [https://ironman.qzz.io](https://ironman.qzz.io)
 
 **Featured Project Categories:**
 - 🤖 **Telegram Bots & Automation**
@@ -77,18 +77,15 @@
   <img src="https://skillicons.dev/icons?i=python,telegram,git,github,html,css,js,fastapi" alt="Skills" />
 </p>
 
-## 📊 GitHub Stats
-  
-[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IROTECHLAB?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-  
-</div>
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IROTECHLAB&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IROTECHLAB&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="170"/>
+</p>
 
-## 🌟 GitHub Activity
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IROTECHLAB&theme=react-dark" alt="Activity Graph" width="90%" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IROTECHLAB&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" height="170"/>
+</p>
 ---
 <div align="center">
   <!-- Closing Animated Text -->
