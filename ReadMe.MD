@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=2CA5E0&center=true&width=600&height=80&lines=Building+the+future+with+code+%F0%9F%92%BB;Python+%7C+Telegram+Bots+%7C+Automation;Turning+ideas+into+functional+tools+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=F71919&center=true&width=600&height=80&lines=Building+the+future+with+code+%F0%9F%92%BB;Python+%7C+Telegram+Bots+%7C+Automation;Turning+ideas+into+functional+tools+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   
   <!-- Animated Banner -->
   <img src="https://raw.githubusercontent.com/IROTECHLAB/IROTECHLAB/main/banner.gif" 
@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IROTECHLAB&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" height="170"/>
 </p>
----
+<hr>
 <div align="center">
   <!-- Closing Animated Text -->
 <a href="https://github.com/irotechlab"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=F71919&width=434&height=49&lines=Thanks+for+visiting!+%F0%9F%91%8B;Check+out+my+Telegram+channel+%F0%9F%91%87;Find+something+useful%3F+Star+the+repo!+%E2%AD%90" alt="Typing SVG" /></a>
