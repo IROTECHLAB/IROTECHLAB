@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=F71919&center=true&width=600&height=80&lines=Building+the+future+with+code+%F0%9F%92%BB;Python+%7C+Telegram+Bots+%7C+Automation;Turning+ideas+into+functional+tools+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   
   <!-- Animated Banner -->
-  <img src="https://raw.githubusercontent.com/IROTECHLAB/IROTECHLAB/main/banner.gif" 
+  <img src="https://raw.githubusercontent.com/IROTECHLAB/IROTECHLAB/main/irotech.png" 
        onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&crop=center';" 
        alt="Banner" width="100%">
 </div>
